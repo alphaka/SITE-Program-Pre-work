@@ -23,7 +23,9 @@ The following functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://cdn.glitch.com/fdb2a010-aaef-47ba-8014-ad72350052bc%2Fezgif.com-gif-maker.gif?v=1616638903051
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63592880/112417755-9b4c9000-8cfe-11eb-8ab2-10fe79d364c8.gif)
+
 
 ## Reflection Questions
 
