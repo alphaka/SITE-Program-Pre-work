@@ -4,7 +4,7 @@ Hello from Alpha is a Light & Sound Memory game to apply for CodePath's SITE Pro
 
 Submitted by: ALPHA
 
-Time spent: 2 hours spent in total
+Time spent: 2.5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/blossom-climbing-icicle?path=README.md%3A13%3A13
 
