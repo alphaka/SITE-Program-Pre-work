@@ -4,7 +4,9 @@ const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
 //Global Variables
-var pattern = [2, 1, 3, 2, 1, 3, 1, 2];
+
+var pattern=[2, 1, 4, 3, 1, 2, 4, 2];
+            
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
@@ -12,8 +14,9 @@ var volume = 0.5; //must be between 0.0 and 1.0
 var guessCounter = 0;
 
 function startGame() {
-  //initialize game variables
+  // //initialize game variables
   progress = 0;
+  
   gamePlaying = true;
   // swap the Start and Stop buttons
   document.getElementById("startBtn").classList.add("hidden");
