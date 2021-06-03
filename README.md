@@ -1,4 +1,4 @@
-# Pre-work - _Memory Game_
+# Memory Game_
 
 Hello from Alpha is a Light & Sound Memory game.
 
