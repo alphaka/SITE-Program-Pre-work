@@ -5,8 +5,7 @@ const nextClueWaitTime = 1000; //how long to wait before starting playback of th
 
 //Global Variables
 
-var pattern=[2, 1, 4, 3, 1, 2, 4, 2];
-            
+var pattern=[2, 1, 4, 3, 1, 2, 4, 2];        
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
@@ -16,7 +15,6 @@ var guessCounter = 0;
 function startGame() {
   // //initialize game variables
   progress = 0;
-  
   gamePlaying = true;
   // swap the Start and Stop buttons
   document.getElementById("startBtn").classList.add("hidden");
