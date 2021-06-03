@@ -1,10 +1,6 @@
-# Pre-work - _Memory Game_
+# Memory Game_
 
-Hello from Alpha is a Light & Sound Memory game to apply for CodePath's SITE Program.
-
-Submitted by: ALPHA
-
-Time spent: 2 hours spent in total
+Hello from Alpha is a Light & Sound Memory game 
 
 Link to project: https://glitch.com/edit/#!/blossom-climbing-icicle?path=README.md%3A13%3A13
 
